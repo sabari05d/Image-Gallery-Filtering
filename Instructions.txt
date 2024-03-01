@@ -1,0 +1,26 @@
+Hello Everyone,
+
+I'm Sabarinathan D. I have completed the given task: "Image Gallery with Filtering".
+
+I completed this task using React Js. I have created an ImageGallery Component to accomplish the task, wherein I wrote logic to filter the images for the selected category.
+
+Steps to run the Project:
+
+Step 1:
+
+	Import and Extract the Project (image-gallery) to any location of your preference (preferably on Desktop).
+
+Step 2:
+
+	Ensure that Node Js is installed. To check, open the command prompt and type "node -v" to verify if Node is installed.
+
+Step 3:
+
+	Open the extracted project in VS Code. Open Terminal and run the command "npm start". This command will run the project on the browser.
+
+Step 4:
+
+	On the browser, you will see a navigation bar and random images provided by myself. The navigation bar contains four hyperlinks. By default, it will display all the images. Clicking on any other hyperlink will filter and display the particular set of images.
+
+
+Thank you for giving me this opportunity. I am eager to contribute my technical skills to your dynamic team.
